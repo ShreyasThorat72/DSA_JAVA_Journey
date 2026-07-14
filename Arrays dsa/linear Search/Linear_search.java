@@ -7,7 +7,7 @@ class Linear_search
         {
         if(arr[i]==5)
         {
-            System.out.println("the key value is found at index : "+i);
+            System.out.println("the key value is found at index : "+i+" "+"is the number: "+arr[i]);
         }
         }
     }
